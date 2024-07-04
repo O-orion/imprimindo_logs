@@ -5,6 +5,9 @@
             "Motocicleta",
             "Carro",
             "Caminhão"
-        ]
+        ],
+        "kmTraveled": 20000,
+        "from": "2009-01-01",
+        "to": "2020-11-26"
     }
 ]
